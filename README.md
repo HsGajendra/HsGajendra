@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Hi! I'm HS Gajendra
 🚀 Software Engineer   <br>☁️ Skilled in AWS (EC2, EKS, S3), Docker, Kubernetes  <br>📡 Building scalable APIs with Flask, Django, and FastAPI  <br>🛠️ DevOps Enthusiast | CI/CD with GitHub Actions & Jenkins  <br>📍 Based in Bengaluru, India
 
 
